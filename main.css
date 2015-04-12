@@ -29,6 +29,7 @@ aside
 {
 	position: fixed;
 	top: 0;
+	margin-left: 18rem;
 	width: 2rem;
 	height: auto;
 	display: inline;
