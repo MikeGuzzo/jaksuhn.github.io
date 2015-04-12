@@ -31,7 +31,7 @@ aside, #content, #slider
 
 aside, #slider
 {
-	background: #2b2b2b;
+	background: #101010;
 	color: #ecf0f1;
 	-webkit-transform: translateX(0em);
 	-moz-transform: translateX(0emback);
@@ -79,7 +79,7 @@ aside, #slider
 
 body
 {
-	background: #383838;
+	background: #1e1e1e;
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 20px;
 }
@@ -88,5 +88,4 @@ body
 {
 	margin-left: 18rem;
 	color: #ecf0f1;
-	border-left: solid 1px #2b2b2b;
 }
