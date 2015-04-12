@@ -75,3 +75,10 @@ aside
 {
     width: .2rem;
 }
+
+body
+{
+	background-color: #383838;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 20px;
+}
